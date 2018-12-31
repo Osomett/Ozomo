@@ -1,1 +1,2 @@
-worker: python Ozomo.py
+worker: python bot.py
+
